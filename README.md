@@ -5,6 +5,9 @@
 
 URL: https://stellar.expert/explorer/testnet/contract/CCM74GXUP37AEEPVGE6L3N5LDGCIXQSA4H36QUZEVHTL3J6LGDLFXPKA
 
+Contact Address: CCM74GXUP37AEEPVGE6L3N5LDGCIXQSA4H36QUZEVHTL3J6LGDLFXPKA
+
+
 ## 📌 Project Description  
 Grant Voting is a decentralized smart contract built using **Soroban (Stellar Smart Contracts)** that enables transparent and secure voting for funding proposals.
 
