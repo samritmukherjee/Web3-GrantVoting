@@ -1,5 +1,8 @@
 # 🌌 Grant Voting Smart Contract (Soroban)
 
+<img width="1916" height="915" alt="image" src="https://github.com/user-attachments/assets/1caaee1e-d339-4237-8f3a-ecb064ae53d0" />
+
+
 ## 📌 Project Description  
 Grant Voting is a decentralized smart contract built using **Soroban (Stellar Smart Contracts)** that enables transparent and secure voting for funding proposals.
 
