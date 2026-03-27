@@ -3,6 +3,8 @@
 <img width="1916" height="915" alt="image" src="https://github.com/user-attachments/assets/1caaee1e-d339-4237-8f3a-ecb064ae53d0" />
 
 
+URL: https://stellar.expert/explorer/testnet/contract/CCM74GXUP37AEEPVGE6L3N5LDGCIXQSA4H36QUZEVHTL3J6LGDLFXPKA
+
 ## 📌 Project Description  
 Grant Voting is a decentralized smart contract built using **Soroban (Stellar Smart Contracts)** that enables transparent and secure voting for funding proposals.
 
